@@ -1033,12 +1033,12 @@
             <fileMode>644</fileMode>
         </file>
         <!--app management config file-->
-        <file>
+        <!--file>
             <source>src/repository/conf/app-manager.xml</source>
             <outputDirectory>${pom.artifactId}-${pom.version}/repository/conf</outputDirectory>
             <filtered>true</filtered>
             <fileMode>644</fileMode>
-        </file>
+        </file-->
         <file>
             <source>src/repository/resources/appm-tenant-conf.xml</source>
             <outputDirectory>${pom.artifactId}-${pom.version}/repository/resources</outputDirectory>
