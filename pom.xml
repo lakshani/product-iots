@@ -899,54 +899,54 @@
 
             <!-- App Management feature dependencies-->
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.core.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.mdm.wso2emm.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.mdm.wso2mdm.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.mobile.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.publisher.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.services.api.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.store.feature</artifactId>
                 <version>${appmgt.feature.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.wso2.carbon.mobile.devicemgt</groupId>
+                <groupId>org.wso2.carbon.mobile.appmgt</groupId>
                 <artifactId>org.wso2.carbon.appmgt.mobile</artifactId>
                 <version>${carbon.appmgt.version}</version>
             </dependency>
@@ -1541,7 +1541,7 @@
         <product.iot.version>3.1.0-SNAPSHOT</product.iot.version>
 
         <!-- Carbon Device Management Plugins-->
-        <carbon.device.mgt.plugin.version>3.0.10-SNAPSHOT</carbon.device.mgt.plugin.version>
+        <carbon.device.mgt.plugin.version>3.0.10</carbon.device.mgt.plugin.version>
 
         <!-- API Management -->
         <carbon.api.mgt.version>6.1.35</carbon.api.mgt.version>
